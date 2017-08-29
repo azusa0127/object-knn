@@ -1,0 +1,11 @@
+{
+    "name": "object-knn",
+    "version": "0.0.1",
+    "description": "Find the nearest neighbour for a general js object.",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "author": "Phoenix Song <github.com/azusa0127>",
+    "license": "MIT"
+}
